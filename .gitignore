@@ -247,4 +247,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Token Github
+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
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
